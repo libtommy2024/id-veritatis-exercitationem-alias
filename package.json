@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/id-veritatis-exercitationem-alias",
-  "version": "9.29.315",
+  "version": "9.29.316",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -338,5 +338,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/id-veritatis-exercitationem-alias/issues"
   },
-  "packageManager": "yarn@4.8.1"
+  "packageManager": "yarn@4.9.0"
 }
